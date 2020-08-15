@@ -8,7 +8,7 @@
       <router-link to="/order">Order</router-link> |
       <router-link to="/login">Login</router-link>
     </div>
-    <h1>前臺頁面</h1>
+    <h1 class="mb-4">前臺頁面</h1>
     <router-view />
   </div>
 </template>
